@@ -1,14 +1,14 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)](https://kar2410.io)
+[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)](https://M0umita.io)
 <h1 align="center">👋 Good to have you here!!</h1>
 <h3 align="center">I'm passionate Web developer from NIT SILCHAR</h3>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kar2410&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/kar2410" width="200px" height="30px" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=M0umita&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/M0umita" width="200px" height="30px" /> </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/kartikv67801698" target="blank"><img src="https://img.shields.io/twitter/follow/kartikv67801698?logo=twitter&style=for-the-badge" alt="kartikv67801698" /></a> </p>
+<p align="left"> <a href="https://twitter.com/momo" target="blank"><img src="https://img.shields.io/twitter/follow/kartikv67801698?logo=twitter&style=for-the-badge" alt="kartikv67801698" /></a> </p>
 
 
 <img style="margin-top: -40px" align="right" width="500" height="300"  src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> 
@@ -235,14 +235,14 @@
 
 
     
-  <a href="https://github.com/kar2410/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar2410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/M0umita/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0umita&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
  <a href="https://github.com/M0umita/github-readme-stats"><img alt=" Moumita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M0umita&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
 
 
 
-<a href="https://github.com/M0umita/github-readme-activity-graph"><img alt="Moumita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kar2410&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/M0umita/github-readme-activity-graph"><img alt="Moumita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=M0umita&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
